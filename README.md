@@ -49,4 +49,9 @@ pytest -q
 - **pytest 自动发现** → 找到 test 文件和函数
 - **conftest.py 自动加载** → 提供共享的 fixture
 - **fixture 注入** → 根据函数参数名自动匹配并传入对象
+
+  - @pytest.fixture(scope="session")
+  - `@pytest.fixture` 定义一个测试资源。
+
+    `scope="session"` → **整个测试会话中只创建一次**，通常用于比较重的资源
 - **assert 简洁检查** → 无需 unittest 那种冗长 API
