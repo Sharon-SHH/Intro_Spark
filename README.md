@@ -45,6 +45,7 @@ pytest -q
 
 ## 🔑 总结
 
+- create a folder named "**tests**", inside creating files: conftest.py and test_*.py
 - **pytest 自动发现** → 找到 test 文件和函数
 - **conftest.py 自动加载** → 提供共享的 fixture
 - **fixture 注入** → 根据函数参数名自动匹配并传入对象
