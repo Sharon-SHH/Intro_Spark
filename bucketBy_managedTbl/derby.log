@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 30 15:53:25 EDT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0199-9c2f-d6e3-0000022c2f78 
+on database directory /Users/heng/Documents/A-0916-Spark/HelloSpark/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@14899482 
+Loaded from file:/Users/heng/Spark/spark-4.0.1-bin-hadoop3/jars/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.10+7
+user.dir=/Users/heng/Documents/A-0916-Spark/HelloSpark
+os.name=Mac OS X
+os.arch=x86_64
+os.version=15.6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

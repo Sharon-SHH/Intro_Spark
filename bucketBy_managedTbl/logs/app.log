@@ -1,0 +1,21 @@
+25/09/30 14:38:04 INFO Hello Spark: starting new spark
+25/09/30 14:38:13 INFO Hello Spark: parquet schema :struct<Call Number:int,Unit ID:string,Incident Number:int,Call Type:string,Call Date:date,Watch Date:date,Received DtTm:string,Entry DtTm:string,Dispatch DtTm:string,Response DtTm:string,On Scene DtTm:string,Transport DtTm:string,Hospital DtTm:string,Call Final Disposition:string,Available DtTm:string,Address:string,City:string,Zipcode of Incident:int,Battalion:string,Station Area:int,Box:int,Original Priority:string,Priority:string,Final Priority:int,ALS Unit:boolean,Call Type Group:string,Number of Alarms:int,Unit Type:string,Unit sequence in call dispatch:int,Fire Prevention District:int,Supervisor District:int,Neighborhooods - Analysis Boundaries:string,RowID:string,case_location:string,data_as_of:timestamp,data_loaded_at:timestamp>
+25/09/30 14:38:13 INFO Hello Spark: num partitions :1
+25/09/30 14:38:15 INFO Hello Spark: num partitions after:5
+25/09/30 14:43:43 INFO Hello Spark: starting new spark
+25/09/30 14:43:48 INFO Hello Spark: parquet schema :struct<Call Number:int,Unit ID:string,Incident Number:int,Call Type:string,Call Date:date,Watch Date:date,Received DtTm:string,Entry DtTm:string,Dispatch DtTm:string,Response DtTm:string,On Scene DtTm:string,Transport DtTm:string,Hospital DtTm:string,Call Final Disposition:string,Available DtTm:string,Address:string,City:string,Zipcode of Incident:int,Battalion:string,Station Area:int,Box:int,Original Priority:string,Priority:string,Final Priority:int,ALS Unit:boolean,Call Type Group:string,Number of Alarms:int,Unit Type:string,Unit sequence in call dispatch:int,Fire Prevention District:int,Supervisor District:int,Neighborhooods - Analysis Boundaries:string,RowID:string,case_location:string,data_as_of:timestamp,data_loaded_at:timestamp>
+25/09/30 14:43:49 INFO Hello Spark: num partitions :1
+25/09/30 14:43:50 INFO Hello Spark: num partitions after:5
+25/09/30 15:27:37 INFO Hello Spark: starting new spark
+25/09/30 15:27:44 INFO Hello Spark: parquet schema :struct<Call Number:int,Unit ID:string,Incident Number:int,Call Type:string,Call Date:date,Watch Date:date,Received DtTm:string,Entry DtTm:string,Dispatch DtTm:string,Response DtTm:string,On Scene DtTm:string,Transport DtTm:string,Hospital DtTm:string,Call Final Disposition:string,Available DtTm:string,Address:string,City:string,Zipcode of Incident:int,Battalion:string,Station Area:int,Box:int,Original Priority:string,Priority:string,Final Priority:int,ALS Unit:boolean,Call Type Group:string,Number of Alarms:int,Unit Type:string,Unit sequence in call dispatch:int,Fire Prevention District:int,Supervisor District:int,Neighborhooods - Analysis Boundaries:string,RowID:string,case_location:string,data_as_of:timestamp,data_loaded_at:timestamp>
+25/09/30 15:27:44 INFO Hello Spark: num partitions :1
+25/09/30 15:27:46 INFO Hello Spark: num partitions after:5
+25/09/30 15:30:25 INFO Hello Spark: starting new spark
+25/09/30 15:30:31 INFO Hello Spark: parquet schema :struct<Call Number:int,Unit ID:string,Incident Number:int,Call Type:string,Call Date:date,Watch Date:date,Received DtTm:string,Entry DtTm:string,Dispatch DtTm:string,Response DtTm:string,On Scene DtTm:string,Transport DtTm:string,Hospital DtTm:string,Call Final Disposition:string,Available DtTm:string,Address:string,City:string,Zipcode of Incident:int,Battalion:string,Station Area:int,Box:int,Original Priority:string,Priority:string,Final Priority:int,ALS Unit:boolean,Call Type Group:string,Number of Alarms:int,Unit Type:string,Unit sequence in call dispatch:int,Fire Prevention District:int,Supervisor District:int,Neighborhooods - Analysis Boundaries:string,RowID:string,case_location:string,data_as_of:timestamp,data_loaded_at:timestamp>
+25/09/30 15:30:31 INFO Hello Spark: num partitions :1
+25/09/30 15:30:33 INFO Hello Spark: num partitions after:5
+25/09/30 15:41:06 INFO Hello Spark: starting new spark
+25/09/30 15:42:17 INFO Hello Spark: starting new spark
+25/09/30 15:42:31 INFO Hello Spark: [[fire_tbl, spark_catalog, [fire_db], null, MANAGED, false]]
+25/09/30 15:53:20 INFO Hello Spark: starting new spark
+25/09/30 15:53:34 INFO Hello Spark: [[fire_tbl, spark_catalog, [fire_db], null, MANAGED, false]]
